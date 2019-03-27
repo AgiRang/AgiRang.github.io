@@ -44,7 +44,7 @@ social:
   - title: google-plus
     url:
   - title: stack-overflow
-    url: 
+    url:
   - title: bitbucket
     url:
   - title: github
@@ -52,11 +52,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: korea 
-  - line: 
+  - line: korea
+  - line:
 
 # Credits content
-credits: 'David_Rang.Made with bootstrap source support.
+credits: 'David_Rang.Made with bootstrap source support.'
 
 # Build settings
 markdown: kramdown
