@@ -4,7 +4,7 @@ email: ldh7724aa@gmail.com
 url: https://agirang.github.io
 description: "David_R's blog with the theme of Jekyll. Only the portfolio is displayed."
 keywords: "PF DR Agirang david "
-skills: "C++ - CSS - HTML5 - Android - Java"
+skills: "Android - CSS - C++ - HTML5 - Java"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -52,8 +52,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: korea
-  - line:
+  - line: Korea
+  - line: In earth
 
 # Credits content
 credits: 'David_Rang.Made with bootstrap source support.'
