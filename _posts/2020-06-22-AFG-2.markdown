@@ -8,8 +8,7 @@ project-date: June 2020
 github: Action RPG
 Demo : Demo Video
 description: This project is a single project, an action game developed in June 20 for 2 weeks.
-I used Unreal Engine, and all of them were made in Blueprint except for important abilities and functions for quick production.
-C++ Sourse is save in my github. You can watch the Demo Video.
+I used Unreal Engine, and all of them were made in Blueprint except for important abilities and functions for quick production. C++ Sourse is save in my github. You can watch the Demo Video.
 
 
 ---
