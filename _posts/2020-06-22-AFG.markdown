@@ -5,8 +5,8 @@ date: 2020-06-22
 img: cake.png
 alt: image-alt
 project-date: June 2020
-github: Start Bootstrap
-Demo2: Web Development
+github: AFG
+Demo2: Demo Video
 description: I used Unreal Engine, and all of them were made in Blueprint except for important abilities and functions for quick production. C++ Sourse is save in my github. You can watch the Demo Video.
 
 
