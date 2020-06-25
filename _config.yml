@@ -4,7 +4,7 @@ email: ldh7724aa@gmail.com
 url: https://agirang.github.io
 description: "David_R's blog with the theme of Jekyll. Only the portfolio is displayed."
 keywords: "PF DR Agirang david "
-skills: "Android - CSS - C++ - HTML5 - Java"
+skills: "Android - CSS - C++ - UE4 - Unity - HTML5 - Java - Networks"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -40,13 +40,13 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url:
+    url: http://github.com/agirang
   - title: google-plus
-    url:
+    url: http://github.com/agirang
   - title: stack-overflow
-    url:
+    url: http://github.com/agirang
   - title: bitbucket
-    url:
+    url: http://github.com/agirang
   - title: github
     url: http://github.com/agirang
 
