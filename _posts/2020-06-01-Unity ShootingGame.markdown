@@ -7,6 +7,6 @@ alt: image-alt
 project-date: June 2020
 github: Unity Shooting Game
 Demo 3: Demo Video
-description: 123123sad
+description: I made Shooting Game, and used Unity Engine
 
 ---
