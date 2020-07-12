@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 4
+modal-id: 2
 date: 2019-12-15
 img: game.png
 alt: image-alt
