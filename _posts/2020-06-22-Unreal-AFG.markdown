@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 5
-date: 2018-06-18
+date: 2020-06-18
 img: cake.png
 alt: image-alt
 project-date: June 2020
