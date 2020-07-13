@@ -5,8 +5,8 @@ date: 2020-06-01
 img: circus.png
 alt: image-alt
 project-date: June 2020
-github: Unity Shooting Game
-Demo 3: Demo Video
+github-Unity: Unity Shooting Game
+Demo3: Not Ready
 description: I made Shooting Game, and used Unity Engine
 
 ---
