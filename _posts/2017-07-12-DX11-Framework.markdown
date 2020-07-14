@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 5
-date: 2017-7-12
+date: 2017-07-12
 img: safe.png
 alt: image-alt
 project-date: 2017
