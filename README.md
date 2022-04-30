@@ -1,23 +1,22 @@
-Freelancer Jekyll theme  [![Build Status](https://api.travis-ci.org/jeromelachaud/freelancer-theme.svg?branch=master)](https://travis-ci.org/jeromelachaud/freelancer-theme/)
-=========================
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
+
+환영합니다.
+이 사이트를 열람 하시는 분은 대부분 면접관련으로 찾아 오신것이라 생각합니다.
+
+포트폴리오를 단순 저장하기 위한 사이트입니다. 따로 지속적 운영을 하지 않습니다.
+이곳에 올라가는 프로젝트는 모두 개발이 끝난 프로젝트 입니다.
+
+해당 사이트는 젤키를 이용하였고 마크다운으로 포스트를 하고 있습니다. 베이스는 프리웨어이며 포크 이후 리팩토링 되어있습니다.
+기본적으로 해당 사이트는 영어를 기본으로 사용중입니다.
+기획문서는 공개하고 있지 않습니다. 다만, 열람희망시 정보가 저장되지 않는 선에서 공개 중입니다. (모 회사에서 악의적으로 침해를...)
+
+각 프로젝트들에 대해 기술문서를 준비하고 있지만 공개적인 사이트에서 보이기엔 다소 민망함도 있기에 따로 드라이브링크를 제공하는 방향으로 준비하고 있습니다.
+
+누추한곳 잘 둘러보고 가시기 바랍니다.
 
 ## How to use
- - Place a image in `/img/portfolio/`
- - Replace `your-email@domain.com` in `_config.yml` with your email address. Refer to [formspree](http://formspree.io/) for more information.
- - Create posts to display your projects. Use the follow as an example:
-```txt
----
-layout: default
-modal-id: 1
-date: 2019-03-27
-img: cabin.png
-alt: image-alt
-project-date: March 2019
-client: The Client
-category: Web Development
-description: The description of the project
+그냥 이러이러한 것들을 만들었구나 하시면 됩니다.
+
 
 ---
 ```
