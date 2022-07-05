@@ -7,7 +7,8 @@ alt: image-alt
 project-date: February 2022
 github-pdf: PM portfolio
 Google-Drive: File
-description: The portfolio only describes projects that have been developed.Projects under development are not saved as documents for security reasons.First, upload my PM resume.
- <a href="https://github.com/AgiRang/AgiRang.github.io/blob/master/PM_%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf">PM Profile</a>                         
+description: The portfolio only describes the project in which it was developed. Projects in development are not saved as documents for security reasons. I want you to talk about questions you have in the Daemon Project through an interview.
+<img src="https://github.com/AgiRang/AgiRang.github.io/blob/master/img/portfolio/ARppt1.PNG"/><br><br><img src="https://github.com/AgiRang/AgiRang.github.io/blob/master/img/portfolio/ARppt2.PNG"/><br><br><img src="https://github.com/AgiRang/AgiRang.github.io/blob/master/img/portfolio/ARppt3.png"/><br><br>
+ <a href="https://github.com/AgiRang/AgiRang.github.io/blob/master/PM_%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf">PM resume</a>                         
 
 ---
